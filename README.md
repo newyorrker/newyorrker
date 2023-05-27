@@ -1,4 +1,4 @@
-Hi 🙌 My name is Ruslan Karshiev
+Hello 🙌 My name is Ruslan
 ================================
 
 I’m a frontend developer. And I try to learn javascript deepest.
