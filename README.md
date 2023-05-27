@@ -1,9 +1,9 @@
 Hi 🙌 My name is Ruslan Karshiev
 ================================
 
-I’m a frontend developer.
+I’m a frontend developer. Try to learn javascript deepest.
 
-*   🌍  I'm based in Fethiye
+*   🇹🇷 I'm based in Fethiye
 *   ✉️  You can contact me at [rkarshiev.develop@gmail.com](mailto:rkarshiev.develop@gmail.com)
 
 ### Skills 
