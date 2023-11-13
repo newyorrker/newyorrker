@@ -3,7 +3,7 @@ Hello 🙌 My name is Ruslan
 
 I’m a frontend developer. And I try to learn javascript deepest.
 
-*   🇹🇷 I'm based in Fethiye
+*   🇺🇿 I'm based in Uzbekistan
 *   ✉️  You can contact me at [rkarshiev.develop@gmail.com](mailto:rkarshiev.develop@gmail.com)
 
 ### Skills 
